@@ -1,8 +1,6 @@
-# cefet-front-end-large-assets
+# cefet_front_end_large_assets
 
-This project contains large assets files for the cefet-front-end slides.
-
-It was created so that the repo for the slides doesn't increase in size
-into an unmanageable state.
+Este projeto contém grandes arquivos de recursos para os slides front_end_cefet.
+Ele foi criado para que o repositório dos slides não aumente de tamanho e se torne incontrolável.
 
 
